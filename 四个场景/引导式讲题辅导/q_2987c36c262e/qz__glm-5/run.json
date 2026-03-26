@@ -1,5 +1,5 @@
 {
-  "runId": "b430cc53-a249-4f9d-8115-0c1f5c593226",
+  "runId": "4331d535-1893-4620-9f55-82caf7b9f7b8",
   "sceneName": "引导式讲题辅导",
   "title": "all-scenes-引导式讲题辅导-001",
   "teacherAgent": "build",
@@ -9,17 +9,17 @@
     "sceneQuestionIndex": 1,
     "sceneQuestionTotal": 15
   },
-  "teacherSessionId": "ses_2d6b4801fffe22YJ782K5aTN4Q",
-  "startedAt": "2026-03-26T08:38:25.795Z",
-  "finishedAt": "2026-03-26T08:39:47.018Z",
+  "teacherSessionId": "ses_2d6bc0489ffesME4QaD6b2Rs1T",
+  "startedAt": "2026-03-26T08:30:14.348Z",
+  "finishedAt": "2026-03-26T08:31:45.911Z",
   "followUpCount": 3,
   "status": "completed",
   "stopReason": "max_followups_reached",
-  "teacherMessagesPath": "data/runs/引导式讲题辅导/q_2987c36c262e/qz__Kimi-K25/teacher-messages.json",
-  "conversationMessagesPath": "data/runs/引导式讲题辅导/q_2987c36c262e/qz__Kimi-K25/conversation-messages.json",
+  "teacherMessagesPath": "data/runs/引导式讲题辅导/q_2987c36c262e/qz__glm-5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/引导式讲题辅导/q_2987c36c262e/qz__glm-5/conversation-messages.json",
   "studentInitialQuestion": "我逻辑还可以，平时很喜欢做科学实验，今天想挑战一道题：一个三位数，个位和百位数字交换后还是一个三位数，它与原三位数的差的个位数字是7，试求它们的差。你能别直接告诉我答案，慢慢问我、带着我想吗？",
-  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/b430cc53-a249-4f9d-8115-0c1f5c593226/student-initial-question.json",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/4331d535-1893-4620-9f55-82caf7b9f7b8/student-initial-question.json",
   "studentQuestionSourcePath": null,
   "storageQuestionKey": "q_2987c36c262e",
-  "storageModelKey": "qz__Kimi-K25"
+  "storageModelKey": "qz__glm-5"
 }

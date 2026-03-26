@@ -1,0 +1,25 @@
+{
+  "runId": "7d873875-fc7e-4eee-9ae3-3cca5d2cb976",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-011",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 11,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": "ses_2d6d4588bffeGQN2yCmCDkk0HC",
+  "startedAt": "2026-03-26T08:03:38.829Z",
+  "finishedAt": null,
+  "followUpCount": 1,
+  "status": "running",
+  "stopReason": null,
+  "teacherMessagesPath": null,
+  "conversationMessagesPath": null,
+  "studentInitialQuestion": "我数学很差，算得也慢，认字也不多。这道题我完全看不懂：一个三位数把前后数字换一下，差的个位是7，求差。你能讲得很慢、很简单，一次只问我一点点吗？",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/7d873875-fc7e-4eee-9ae3-3cca5d2cb976/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_237018634fc4",
+  "storageModelKey": "qz__Kimi-K25"
+}

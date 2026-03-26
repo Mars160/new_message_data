@@ -1,0 +1,25 @@
+{
+  "runId": "3bc7c230-12a7-4bc1-93d8-8a4267756fe0",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-009",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 9,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": "ses_2d6d58bdcffe9ss6atsqT8sVJJ",
+  "startedAt": "2026-03-26T08:02:20.156Z",
+  "finishedAt": "2026-03-26T08:03:38.825Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/引导式讲题辅导/q_b1962a369e9a/qz__Kimi-K25/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/引导式讲题辅导/q_b1962a369e9a/qz__Kimi-K25/conversation-messages.json",
+  "studentInitialQuestion": "我喜欢画图和手工，不过数学应用判断题有时候会犹豫。两位数乘三位数，积到底可能是几位数？你能不要直接说答案，先带我举例和分析吗？",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/3bc7c230-12a7-4bc1-93d8-8a4267756fe0/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_b1962a369e9a",
+  "storageModelKey": "qz__Kimi-K25"
+}

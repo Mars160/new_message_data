@@ -1,0 +1,25 @@
+{
+  "runId": "a8a962e9-68c0-489b-92ad-a93e3b34b6bc",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-003",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 3,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": "ses_2d6d96152ffeeMrysqrmH29eyx",
+  "startedAt": "2026-03-26T07:58:08.886Z",
+  "finishedAt": "2026-03-26T07:59:33.874Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/引导式讲题辅导/q_7288dee2df4c/qz__Kimi-K25/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/引导式讲题辅导/q_7288dee2df4c/qz__Kimi-K25/conversation-messages.json",
+  "studentInitialQuestion": "我基础还不错，也愿意动脑。果园里有桃树24棵，梨树的棵数是桃树的3倍，苹果树的棵数是梨树的4倍，苹果树有多少棵？你能每次只问我一个问题，让我自己算吗？",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/a8a962e9-68c0-489b-92ad-a93e3b34b6bc/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_7288dee2df4c",
+  "storageModelKey": "qz__Kimi-K25"
+}

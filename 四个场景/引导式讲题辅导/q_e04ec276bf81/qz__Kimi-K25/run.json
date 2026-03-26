@@ -1,0 +1,25 @@
+{
+  "runId": "2af1d050-0a06-4198-a3d3-ed294a340e48",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-010",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 10,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": "ses_2d6d50e81ffeosgcj0vwRLwere",
+  "startedAt": "2026-03-26T08:02:52.245Z",
+  "finishedAt": "2026-03-26T08:04:11.050Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/引导式讲题辅导/q_e04ec276bf81/qz__Kimi-K25/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/引导式讲题辅导/q_e04ec276bf81/qz__Kimi-K25/conversation-messages.json",
+  "studentInitialQuestion": "我做题时容易想一步到位，结果反而出错。计算器“4”键坏了，还要算144×54，这题我不知道怎么绕开。你能像老师上辅导课那样，一步一步问我吗？",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/2af1d050-0a06-4198-a3d3-ed294a340e48/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_e04ec276bf81",
+  "storageModelKey": "qz__Kimi-K25"
+}

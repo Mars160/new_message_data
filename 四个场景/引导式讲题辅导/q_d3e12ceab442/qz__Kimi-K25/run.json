@@ -1,0 +1,25 @@
+{
+  "runId": "ff020294-9f21-43dc-b7d6-f24aa7f0c7f3",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-012",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 12,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": "ses_2d6d3daa9ffepBqYFqDtyCU0De",
+  "startedAt": "2026-03-26T08:04:11.053Z",
+  "finishedAt": null,
+  "followUpCount": 0,
+  "status": "running",
+  "stopReason": null,
+  "teacherMessagesPath": null,
+  "conversationMessagesPath": null,
+  "studentInitialQuestion": "我做题老是分心，看到“师傅每天32辆，徒弟少8辆，多少天差56辆”这种题就慌。你能不要一下说很多，带我先想第一步该算什么吗？",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/ff020294-9f21-43dc-b7d6-f24aa7f0c7f3/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_d3e12ceab442",
+  "storageModelKey": "qz__Kimi-K25"
+}

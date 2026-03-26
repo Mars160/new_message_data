@@ -1,0 +1,25 @@
+{
+  "runId": "0a2ebb8c-e504-4515-b11a-d8d408121f4f",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-002",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 2,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": "ses_2d6d965d6ffeudP1BRThOtAstf",
+  "startedAt": "2026-03-26T07:58:07.720Z",
+  "finishedAt": "2026-03-26T07:59:17.569Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/引导式讲题辅导/q_eaa2ee2af878/qz__Kimi-K25/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/引导式讲题辅导/q_eaa2ee2af878/qz__Kimi-K25/conversation-messages.json",
+  "studentInitialQuestion": "我平时比较自信，也喜欢动手实验。题目是“师徒两人装配自行车，师傅每天装配32辆，徒弟每天比师傅少装配8辆，经过多少天师傅比徒弟多装配56辆？”我想自己做出来，你能一步一步引导我吗？",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/0a2ebb8c-e504-4515-b11a-d8d408121f4f/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_eaa2ee2af878",
+  "storageModelKey": "qz__Kimi-K25"
+}

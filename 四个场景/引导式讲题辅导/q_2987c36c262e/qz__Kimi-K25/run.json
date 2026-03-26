@@ -1,0 +1,25 @@
+{
+  "runId": "438449a9-2616-4e54-bb6e-ebdef4988581",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-001",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 1,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": null,
+  "startedAt": "2026-03-26T07:58:07.718Z",
+  "finishedAt": "2026-03-26T07:58:08.884Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": null,
+  "conversationMessagesPath": null,
+  "studentInitialQuestion": null,
+  "studentInitialQuestionPath": null,
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_2987c36c262e",
+  "storageModelKey": "qz__Kimi-K25"
+}

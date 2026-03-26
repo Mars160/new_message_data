@@ -1,0 +1,25 @@
+{
+  "runId": "e8c86424-d3d6-4485-9dba-a88939b99558",
+  "sceneName": "情境化出题导师",
+  "title": "all-scenes-情境化出题导师-002",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 2,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d630d931ffeFk42akPjpe0ts4",
+  "startedAt": "2026-03-26T11:02:13.774Z",
+  "finishedAt": "2026-03-26T11:02:30.967Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/情境化出题导师/q_d54673472113/qz__glm-5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/情境化出题导师/q_d54673472113/qz__glm-5/conversation-messages.json",
+  "studentInitialQuestion": "我正在教授四年级学生大数的比较，希望能找一道结合生活实际的应用题来检测他们的掌握情况。难度中等即可。",
+  "studentInitialQuestionPath": "data/student-questions/情境化出题导师/2026-03-26/e8c86424-d3d6-4485-9dba-a88939b99558/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_d54673472113",
+  "storageModelKey": "qz__glm-5"
+}

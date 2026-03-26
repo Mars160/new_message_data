@@ -1,0 +1,25 @@
+{
+  "runId": "55524c4c-d551-4644-bf0f-3f6a023833ef",
+  "sceneName": "情境化出题导师",
+  "title": "all-scenes-情境化出题导师-006",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 6,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d6824805ffewlUZmiEfeCfoSW",
+  "startedAt": "2026-03-26T09:33:17.014Z",
+  "finishedAt": "2026-03-26T09:35:23.738Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/情境化出题导师/q_3c6ad86a30d1/qz__qwen3.5-397b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/情境化出题导师/q_3c6ad86a30d1/qz__qwen3.5-397b/conversation-messages.json",
+  "studentInitialQuestion": "我正在给七年级学生讲解角度的基本概念和比较，需要一道生活化的几何题来帮助学生理解角的和差关系。希望题目能结合具体情境，通过披萨分切的例子来说明问题，难度中等。",
+  "studentInitialQuestionPath": "data/student-questions/情境化出题导师/2026-03-26/55524c4c-d551-4644-bf0f-3f6a023833ef/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_3c6ad86a30d1",
+  "storageModelKey": "qz__qwen3.5-397b"
+}

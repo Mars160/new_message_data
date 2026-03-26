@@ -1,0 +1,25 @@
+{
+  "runId": "745ca7be-f9df-48c8-939f-9d1b0c224a68",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-014",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 14,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": "ses_2d6d2ece4ffeEtfpjVJVcbqBuj",
+  "startedAt": "2026-03-26T08:05:11.902Z",
+  "finishedAt": "2026-03-26T08:06:27.961Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/引导式讲题辅导/q_56ac373cfefa/qz__Kimi-K25/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/引导式讲题辅导/q_56ac373cfefa/qz__Kimi-K25/conversation-messages.json",
+  "studentInitialQuestion": "我基础很弱，连位数有时候都分不清。两位数乘三位数，积会是几位数，我不知道怎么判断。你能先从最小和最大的情况带我想吗？",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/745ca7be-f9df-48c8-939f-9d1b0c224a68/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_56ac373cfefa",
+  "storageModelKey": "qz__Kimi-K25"
+}

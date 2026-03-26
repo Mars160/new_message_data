@@ -1,0 +1,25 @@
+{
+  "runId": "72ed4992-f88a-491b-ab1e-dcfe2a27cd9d",
+  "sceneName": "知识点讲解导师",
+  "title": "all-scenes-知识点讲解导师-003",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 3,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d6259055ffeSeaQBNsGvDkitq",
+  "startedAt": "2026-03-26T11:14:33.333Z",
+  "finishedAt": "2026-03-26T11:15:50.141Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/知识点讲解导师/q_aba69ff4f941/qz__glm-5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/知识点讲解导师/q_aba69ff4f941/qz__glm-5/conversation-messages.json",
+  "studentInitialQuestion": "我是小学三年级学生，数学不太好。你可以帮我巩固一下毫米和分米的换算吗？讲慢一点、简单一点。",
+  "studentInitialQuestionPath": "data/student-questions/知识点讲解导师/2026-03-26/72ed4992-f88a-491b-ab1e-dcfe2a27cd9d/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_aba69ff4f941",
+  "storageModelKey": "qz__glm-5"
+}

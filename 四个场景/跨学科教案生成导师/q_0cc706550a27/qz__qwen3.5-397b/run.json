@@ -1,0 +1,25 @@
+{
+  "runId": "bb612de9-0853-4981-81ca-302b9573c321",
+  "sceneName": "跨学科教案生成导师",
+  "title": "all-scenes-跨学科教案生成导师-004",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 4,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d66a252effec5AxsIxdHM8lRf",
+  "startedAt": "2026-03-26T09:59:38.783Z",
+  "finishedAt": "2026-03-26T10:00:18.074Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/跨学科教案生成导师/q_0cc706550a27/qz__qwen3.5-397b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/跨学科教案生成导师/q_0cc706550a27/qz__qwen3.5-397b/conversation-messages.json",
+  "studentInitialQuestion": "教学对象是初二学生，13到14岁，擅长文字表达与信息收集，能制作简单的PPT展示材料，对生活中的物理现象有一定观察，但缺乏深入探究意识。核心学科是物理，主要关联学科是语文，计划4课时，已掌握牛顿第一定律、压强计算、简单机械应用。请你设计一份跨学科教案。",
+  "studentInitialQuestionPath": "data/student-questions/跨学科教案生成导师/2026-03-26/bb612de9-0853-4981-81ca-302b9573c321/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_0cc706550a27",
+  "storageModelKey": "qz__qwen3.5-397b"
+}

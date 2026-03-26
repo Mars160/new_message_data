@@ -1,0 +1,25 @@
+{
+  "runId": "957d3d21-686b-493e-b2e0-8885712410ee",
+  "sceneName": "知识点讲解导师",
+  "title": "all-scenes-知识点讲解导师-002",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 2,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d627817cffelgax8yetxrc33h",
+  "startedAt": "2026-03-26T11:12:26.075Z",
+  "finishedAt": "2026-03-26T11:14:33.327Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/知识点讲解导师/q_ae03b6d116de/qz__glm-5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/知识点讲解导师/q_ae03b6d116de/qz__glm-5/conversation-messages.json",
+  "studentInitialQuestion": "我是小学二年级男生，我一直不太明白为什么要先算乘除再算加减，还有为什么有括号的时候要先算括号。你能给我解释一下吗？最好举简单例子。",
+  "studentInitialQuestionPath": "data/student-questions/知识点讲解导师/2026-03-26/957d3d21-686b-493e-b2e0-8885712410ee/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_ae03b6d116de",
+  "storageModelKey": "qz__glm-5"
+}

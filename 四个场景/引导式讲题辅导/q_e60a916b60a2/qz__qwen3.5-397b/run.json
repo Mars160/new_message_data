@@ -1,0 +1,25 @@
+{
+  "runId": "4d974002-a1e4-41c0-b95e-802435448a50",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-008",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 8,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": "ses_2d68d2a10ffeR9L6U3VtPj84on",
+  "startedAt": "2026-03-26T09:21:23.787Z",
+  "finishedAt": "2026-03-26T09:22:23.912Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/引导式讲题辅导/q_e60a916b60a2/qz__qwen3.5-397b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/引导式讲题辅导/q_e60a916b60a2/qz__qwen3.5-397b/conversation-messages.json",
+  "studentInitialQuestion": "我基础知识还算扎实，但应用起来不太稳。果园里桃树24棵，梨树是桃树3倍，苹果树又是梨树4倍，这题我总怕自己连错关系。你能慢慢引导我理清楚吗？",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/4d974002-a1e4-41c0-b95e-802435448a50/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_e60a916b60a2",
+  "storageModelKey": "qz__qwen3.5-397b"
+}

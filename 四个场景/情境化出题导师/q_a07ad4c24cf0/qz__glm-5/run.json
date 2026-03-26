@@ -1,0 +1,25 @@
+{
+  "runId": "c2fcbadd-0e71-4ac9-8f79-d3ef8a2d495d",
+  "sceneName": "情境化出题导师",
+  "title": "all-scenes-情境化出题导师-007",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 7,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d62d9545ffel009ehavMSLlYD",
+  "startedAt": "2026-03-26T11:05:47.797Z",
+  "finishedAt": "2026-03-26T11:06:03.654Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/情境化出题导师/q_a07ad4c24cf0/qz__glm-5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/情境化出题导师/q_a07ad4c24cf0/qz__glm-5/conversation-messages.json",
+  "studentInitialQuestion": "我需要一道八年级统计与概率单元的练习题，要考察学生对平均数概念的理解和应用。题目最好有实际生活背景，难度控制在容易到中等之间。",
+  "studentInitialQuestionPath": "data/student-questions/情境化出题导师/2026-03-26/c2fcbadd-0e71-4ac9-8f79-d3ef8a2d495d/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_a07ad4c24cf0",
+  "storageModelKey": "qz__glm-5"
+}

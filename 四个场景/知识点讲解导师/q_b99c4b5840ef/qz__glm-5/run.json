@@ -1,0 +1,25 @@
+{
+  "runId": "45c0fe6a-9086-4330-b278-28121dacee0a",
+  "sceneName": "知识点讲解导师",
+  "title": "all-scenes-知识点讲解导师-001",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 1,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d628f4ccffeikAUoyDRybC16z",
+  "startedAt": "2026-03-26T11:10:51.025Z",
+  "finishedAt": "2026-03-26T11:12:26.069Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/知识点讲解导师/q_b99c4b5840ef/qz__glm-5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/知识点讲解导师/q_b99c4b5840ef/qz__glm-5/conversation-messages.json",
+  "studentInitialQuestion": "我是小学二年级女生，下节课要学习有理数，你可以先帮我预习一下吗？讲得亲切一点，也可以先让我想一想。",
+  "studentInitialQuestionPath": "data/student-questions/知识点讲解导师/2026-03-26/45c0fe6a-9086-4330-b278-28121dacee0a/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_b99c4b5840ef",
+  "storageModelKey": "qz__glm-5"
+}

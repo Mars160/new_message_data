@@ -1,0 +1,25 @@
+{
+  "runId": "d87c8278-a817-48d0-a8c2-59f6f5ae476d",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-007",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 7,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": "ses_2d63b9c5effeWYoZ41j021SdR6",
+  "startedAt": "2026-03-26T10:50:28.480Z",
+  "finishedAt": "2026-03-26T10:51:56.728Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/引导式讲题辅导/q_2c112e1ef3a4/qz__glm-5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/引导式讲题辅导/q_2c112e1ef3a4/qz__glm-5/conversation-messages.json",
+  "studentInitialQuestion": "我有时候公式会懂，但题目一复杂就乱掉。我比较内向，想请你带我做这道师徒装配自行车的题：师傅每天32辆，徒弟少8辆，多少天后相差56辆？你能一步一步问我吗？",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/d87c8278-a817-48d0-a8c2-59f6f5ae476d/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_2c112e1ef3a4",
+  "storageModelKey": "qz__glm-5"
+}

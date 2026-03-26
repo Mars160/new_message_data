@@ -1,0 +1,43 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "很好，你愿意自己思考，这是学好数学最重要的品质！\n\n我们先来读题。题目里提到了三种树，你能先告诉我：**已知条件中，哪种树的棵数是直接告诉我们的？**",
+    "studentRawOutput": "{\"decision\":\"follow_up\",\"question\":\"已知桃树 24 棵，那下一步是不是该算梨树的棵数？\",\"reason\":\"老师刚开始第一步引导，题目尚未解出，分步解题目标未完成\",\"unmet_goals\":[\"通过分步引导完成解题\",\"计算出苹果树的棵数\"]}",
+    "parsedDecision": {
+      "type": "follow_up",
+      "question": "已知桃树 24 棵，那下一步是不是该算梨树的棵数？",
+      "reason": "老师刚开始第一步引导，题目尚未解出，分步解题目标未完成",
+      "unmetGoals": [
+        "通过分步引导完成解题",
+        "计算出苹果树的棵数"
+      ]
+    }
+  },
+  {
+    "round": 2,
+    "teacherReplyText": "你的思路很清晰！既然桃树有 24 棵，梨树是桃树的 3 倍，**那么梨树有多少棵呢？**",
+    "studentRawOutput": "{\"decision\":\"follow_up\",\"question\":\"算出来梨树是 72 棵，那接下来该怎么算苹果树呢？\",\"reason\":\"题目尚未解完，苹果树棵数未计算，需继续 step-by-step 引导\",\"unmet_goals\":[\"计算苹果树棵数\",\"完成完整解题流程\"]}",
+    "parsedDecision": {
+      "type": "follow_up",
+      "question": "算出来梨树是 72 棵，那接下来该怎么算苹果树呢？",
+      "reason": "题目尚未解完，苹果树棵数未计算，需继续 step-by-step 引导",
+      "unmetGoals": [
+        "计算苹果树棵数",
+        "完成完整解题流程"
+      ]
+    }
+  },
+  {
+    "round": 3,
+    "teacherReplyText": "很好，72 棵算对了！题目里说苹果树的棵数是梨树的 4 倍，**那么苹果树应该怎么算呢？**",
+    "studentRawOutput": "{\"decision\":\"follow_up\",\"question\":\"那是不是 72 乘以 4 等于 288 棵？\",\"reason\":\"原始目标是求出苹果树棵数，目前尚未得出最终答案并确认\",\"unmet_goals\":[\"得出并确认苹果树的棵数\"]}",
+    "parsedDecision": {
+      "type": "follow_up",
+      "question": "那是不是 72 乘以 4 等于 288 棵？",
+      "reason": "原始目标是求出苹果树棵数，目前尚未得出最终答案并确认",
+      "unmetGoals": [
+        "得出并确认苹果树的棵数"
+      ]
+    }
+  }
+]

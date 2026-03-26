@@ -1,0 +1,25 @@
+{
+  "runId": "b796078e-ebd7-48fc-a773-558422f5a293",
+  "sceneName": "知识点讲解导师",
+  "title": "all-scenes-知识点讲解导师-008",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 8,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d6c5dd32ffe2fdjH99eFrKifv",
+  "startedAt": "2026-03-26T08:19:27.909Z",
+  "finishedAt": "2026-03-26T08:20:43.238Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/知识点讲解导师/q_c8d76b615d3e/qz__Kimi-K25/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/知识点讲解导师/q_c8d76b615d3e/qz__Kimi-K25/conversation-messages.json",
+  "studentInitialQuestion": "我是小学五年级，我已经学过分数了。你能给我讲一下分数的约分和通分吗？我总觉得这两个容易混。",
+  "studentInitialQuestionPath": "data/student-questions/知识点讲解导师/2026-03-26/b796078e-ebd7-48fc-a773-558422f5a293/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_c8d76b615d3e",
+  "storageModelKey": "qz__Kimi-K25"
+}

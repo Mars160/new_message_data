@@ -1,0 +1,25 @@
+{
+  "runId": "064570b7-deb1-4cfa-83b6-65b07fac266f",
+  "sceneName": "跨学科教案生成导师",
+  "title": "all-scenes-跨学科教案生成导师-003",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 3,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d66b1d35ffe9k9w22MYT7PmIp",
+  "startedAt": "2026-03-26T09:58:35.255Z",
+  "finishedAt": "2026-03-26T09:59:38.777Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/跨学科教案生成导师/q_547b8bdd8ecd/qz__qwen3.5-397b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/跨学科教案生成导师/q_547b8bdd8ecd/qz__qwen3.5-397b/conversation-messages.json",
+  "studentInitialQuestion": "教学对象是初一学生，12到13岁，能进行简单的音乐节奏分析，了解乐器发声原理的基础描述，但在探究物理声学与音乐关系时缺乏深度思考。核心学科是物理，主要关联学科是音乐，计划4课时，已掌握声音的产生与传播、音调与响度区分、噪声防治。请生成一份跨学科教案。",
+  "studentInitialQuestionPath": "data/student-questions/跨学科教案生成导师/2026-03-26/064570b7-deb1-4cfa-83b6-65b07fac266f/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_547b8bdd8ecd",
+  "storageModelKey": "qz__qwen3.5-397b"
+}

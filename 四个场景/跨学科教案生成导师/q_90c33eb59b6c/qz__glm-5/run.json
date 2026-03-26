@@ -1,0 +1,25 @@
+{
+  "runId": "b2234c75-9327-4739-9d82-25bbce758c40",
+  "sceneName": "跨学科教案生成导师",
+  "title": "all-scenes-跨学科教案生成导师-010",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 10,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d6076c81ffeBAjSp8G2Ac3m6w",
+  "startedAt": "2026-03-26T11:47:28.584Z",
+  "finishedAt": "2026-03-26T11:49:54.271Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/跨学科教案生成导师/q_90c33eb59b6c/qz__glm-5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/跨学科教案生成导师/q_90c33eb59b6c/qz__glm-5/conversation-messages.json",
+  "studentInitialQuestion": "教学对象是初二学生，13到14岁，熟悉历史中科技发展的重要事件，能分析事件背后的社会因素，但对物理知识在历史进程中的作用缺乏系统认知。核心学科是物理，主要关联学科是历史，计划4课时，已掌握摩擦力分析、滑轮组应用、能量转化实例。请你生成一份跨学科教案。",
+  "studentInitialQuestionPath": "data/student-questions/跨学科教案生成导师/2026-03-26/b2234c75-9327-4739-9d82-25bbce758c40/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_90c33eb59b6c",
+  "storageModelKey": "qz__glm-5"
+}

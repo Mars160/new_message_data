@@ -1,0 +1,25 @@
+{
+  "runId": "a5d1bad0-a312-44fc-b5e2-133f6c598745",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-004",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 4,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": "ses_2d6bc6fd9ffe8cOu1YpSM80W9o",
+  "startedAt": "2026-03-26T08:29:45.722Z",
+  "finishedAt": "2026-03-26T08:31:05.081Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/引导式讲题辅导/q_b47ee2e15fdb/qz__qwen3.5-397b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/引导式讲题辅导/q_b47ee2e15fdb/qz__qwen3.5-397b/conversation-messages.json",
+  "studentInitialQuestion": "我平时学数学还算灵活，但这道题我想不太清楚：两位数乘三位数，积是A三位数、B四位数、还是C四位数或五位数？你能引导我自己判断，不要直接公布选项吗？",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/a5d1bad0-a312-44fc-b5e2-133f6c598745/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_b47ee2e15fdb",
+  "storageModelKey": "qz__qwen3.5-397b"
+}

@@ -1,0 +1,25 @@
+{
+  "runId": "2c6c687a-8543-45f7-9fb4-3142430612e5",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-015",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 15,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": "ses_2d632af0effeiPLF7OSOJBVTRb",
+  "startedAt": "2026-03-26T11:00:13.515Z",
+  "finishedAt": "2026-03-26T11:01:37.048Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/引导式讲题辅导/q_5961e0fd05f7/qz__glm-5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/引导式讲题辅导/q_5961e0fd05f7/qz__glm-5/conversation-messages.json",
+  "studentInitialQuestion": "我不太会变通，看到“4”键坏了还要算144×54”就不知道怎么办了。你能别直接给答案，先问我还能把144和54改写成什么吗？",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/2c6c687a-8543-45f7-9fb4-3142430612e5/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_5961e0fd05f7",
+  "storageModelKey": "qz__glm-5"
+}

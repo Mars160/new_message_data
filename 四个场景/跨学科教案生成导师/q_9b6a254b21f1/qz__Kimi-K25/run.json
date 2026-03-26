@@ -1,0 +1,25 @@
+{
+  "runId": "1802103f-54e7-4964-9529-4191032ebffa",
+  "sceneName": "跨学科教案生成导师",
+  "title": "all-scenes-跨学科教案生成导师-006",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 6,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d6bf6ce6ffeTDtAX3uo7J32FB",
+  "startedAt": "2026-03-26T08:26:29.864Z",
+  "finishedAt": "2026-03-26T08:31:13.111Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/跨学科教案生成导师/q_9b6a254b21f1/qz__Kimi-K25/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/跨学科教案生成导师/q_9b6a254b21f1/qz__Kimi-K25/conversation-messages.json",
+  "studentInitialQuestion": "我正在给七年级学生讲解角度的基本概念和比较，想设计一份结合披萨分切情境的几何微教案，帮助学生理解角的和差关系。希望教案带有生活化情境，难度中等，并能体现简单的跨学科关联。请你据此生成一份教案。",
+  "studentInitialQuestionPath": "data/student-questions/跨学科教案生成导师/2026-03-26/1802103f-54e7-4964-9529-4191032ebffa/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_9b6a254b21f1",
+  "storageModelKey": "qz__Kimi-K25"
+}

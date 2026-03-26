@@ -1,0 +1,25 @@
+{
+  "runId": "91be5bbb-08b8-44dc-8050-53f0fc0c0cd0",
+  "sceneName": "跨学科教案生成导师",
+  "title": "all-scenes-跨学科教案生成导师-007",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 7,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d60c4317ffevwLVP0rf7Mpoj4",
+  "startedAt": "2026-03-26T11:42:11.518Z",
+  "finishedAt": "2026-03-26T11:43:50.063Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/跨学科教案生成导师/q_f8f9fccfdff4/qz__glm-5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/跨学科教案生成导师/q_f8f9fccfdff4/qz__glm-5/conversation-messages.json",
+  "studentInitialQuestion": "教学对象是初三学生，14到15岁，了解基础力学实验设计流程，能运用三角函数解决简单几何问题，但在多变量问题分析上存在不足。核心学科是物理，主要关联学科是数学，计划3课时，已掌握机械效率计算、功与能的转化、力的合成与分解。请你生成一份跨学科教案。",
+  "studentInitialQuestionPath": "data/student-questions/跨学科教案生成导师/2026-03-26/91be5bbb-08b8-44dc-8050-53f0fc0c0cd0/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_f8f9fccfdff4",
+  "storageModelKey": "qz__glm-5"
+}

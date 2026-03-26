@@ -1,0 +1,25 @@
+{
+  "runId": "68f4fccf-a7ae-4226-a511-2ea3736c660d",
+  "sceneName": "跨学科教案生成导师",
+  "title": "all-scenes-跨学科教案生成导师-008",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 8,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d69a7fbeffeZXU439JyYeWQvB",
+  "startedAt": "2026-03-26T09:06:49.874Z",
+  "finishedAt": "2026-03-26T09:13:01.315Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/跨学科教案生成导师/q_4d4ed5a2b9c9/qz__Kimi-K25/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/跨学科教案生成导师/q_4d4ed5a2b9c9/qz__Kimi-K25/conversation-messages.json",
+  "studentInitialQuestion": "教学对象是初二学生，13到14岁，对地理中的地形地貌知识有一定了解，能使用地图定位，空间想象能力较好，但将地理现象与物理原理结合的能力较弱。核心学科是物理，主要关联学科是地理，计划4课时，已掌握浮力原理、杠杆平衡条件、热传递方式。请生成一份跨学科教案。",
+  "studentInitialQuestionPath": "data/student-questions/跨学科教案生成导师/2026-03-26/68f4fccf-a7ae-4226-a511-2ea3736c660d/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_4d4ed5a2b9c9",
+  "storageModelKey": "qz__Kimi-K25"
+}

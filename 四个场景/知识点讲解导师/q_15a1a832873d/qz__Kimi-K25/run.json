@@ -1,0 +1,25 @@
+{
+  "runId": "aa652474-9c92-4164-9a49-ebacb706fff8",
+  "sceneName": "知识点讲解导师",
+  "title": "all-scenes-知识点讲解导师-009",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 9,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d6a463ccffekzyDrPFxr7cmeE",
+  "startedAt": "2026-03-26T08:56:01.677Z",
+  "finishedAt": "2026-03-26T08:57:25.728Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/知识点讲解导师/q_15a1a832873d/qz__Kimi-K25/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/知识点讲解导师/q_15a1a832873d/qz__Kimi-K25/conversation-messages.json",
+  "studentInitialQuestion": "我是小学六年级学生。你能告诉我圆锥的体积怎么计算吗？最好顺便讲讲为什么这样算。",
+  "studentInitialQuestionPath": "data/student-questions/知识点讲解导师/2026-03-26/aa652474-9c92-4164-9a49-ebacb706fff8/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_15a1a832873d",
+  "storageModelKey": "qz__Kimi-K25"
+}

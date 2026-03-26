@@ -1,0 +1,25 @@
+{
+  "runId": "705653b7-a3c4-4fb1-99ee-0276846e5117",
+  "sceneName": "跨学科教案生成导师",
+  "title": "all-scenes-跨学科教案生成导师-009",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 9,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d5fecc53ffelCfrmiZTkWWWef",
+  "startedAt": "2026-03-26T11:56:53.895Z",
+  "finishedAt": "2026-03-26T11:58:19.121Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/跨学科教案生成导师/q_6e7fd01d8ad3/qz__glm-5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/跨学科教案生成导师/q_6e7fd01d8ad3/qz__glm-5/conversation-messages.json",
+  "studentInitialQuestion": "教学对象是初一学生，12到13岁，能进行简单的英语科普短文阅读，对常见物理实验器材的英文名称有一定认识，但在用英文表达物理概念方面较生疏。核心学科是物理，主要关联学科是英语，计划3课时，已掌握运动与静止相对性、速度计算、简单电路连接。请你生成一份跨学科教案。",
+  "studentInitialQuestionPath": "data/student-questions/跨学科教案生成导师/2026-03-26/705653b7-a3c4-4fb1-99ee-0276846e5117/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_6e7fd01d8ad3",
+  "storageModelKey": "qz__glm-5"
+}

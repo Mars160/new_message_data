@@ -1,0 +1,25 @@
+{
+  "runId": "09a67be7-297d-4017-976d-51fa34f58256",
+  "sceneName": "知识点讲解导师",
+  "title": "all-scenes-知识点讲解导师-004",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 4,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d6777057ffeeVN6silVxIAwY0",
+  "startedAt": "2026-03-26T09:45:07.583Z",
+  "finishedAt": "2026-03-26T09:46:24.515Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/知识点讲解导师/q_9a1407f16740/qz__qwen3.5-397b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/知识点讲解导师/q_9a1407f16740/qz__qwen3.5-397b/conversation-messages.json",
+  "studentInitialQuestion": "我是小学三年级学生，刚考完除法。你能帮我预习一下小数吗？我想先知道它大概是什么。",
+  "studentInitialQuestionPath": "data/student-questions/知识点讲解导师/2026-03-26/09a67be7-297d-4017-976d-51fa34f58256/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_9a1407f16740",
+  "storageModelKey": "qz__qwen3.5-397b"
+}

@@ -1,0 +1,25 @@
+{
+  "runId": "c77793d0-8382-4f87-8065-d63903c74bc7",
+  "sceneName": "跨学科教案生成导师",
+  "title": "all-scenes-跨学科教案生成导师-005",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 5,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d69d274cffe0i17a4i5DDMVPy",
+  "startedAt": "2026-03-26T09:03:55.884Z",
+  "finishedAt": "2026-03-26T09:06:49.862Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/跨学科教案生成导师/q_9699c7f586bd/qz__Kimi-K25/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/跨学科教案生成导师/q_9699c7f586bd/qz__Kimi-K25/conversation-messages.json",
+  "studentInitialQuestion": "教学对象是初二学生，具备简单编程基础，能使用几何工具绘制简单图形，对数据处理有初步认知，但跨学科整合能力较弱。核心学科是物理，主要关联学科是信息技术，计划4课时，已掌握物态变化原理、声音的特性、光的反射与折射规律。请生成一份跨学科教案。",
+  "studentInitialQuestionPath": "data/student-questions/跨学科教案生成导师/2026-03-26/c77793d0-8382-4f87-8065-d63903c74bc7/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_9699c7f586bd",
+  "storageModelKey": "qz__Kimi-K25"
+}

@@ -1,0 +1,25 @@
+{
+  "runId": "910e4aa0-8c57-49cb-95b8-70d55f4e3337",
+  "sceneName": "情境化出题导师",
+  "title": "all-scenes-情境化出题导师-008",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 8,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d67fc931ffebk1w3ydsIcmIFM",
+  "startedAt": "2026-03-26T09:36:00.550Z",
+  "finishedAt": "2026-03-26T09:38:12.455Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/情境化出题导师/q_f9848a468268/qz__qwen3.5-397b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/情境化出题导师/q_f9848a468268/qz__qwen3.5-397b/conversation-messages.json",
+  "studentInitialQuestion": "我正在教授七年级学生平面直角坐标系的知识，想找一道有趣的坐标平移练习题。希望题目能融入生活情境，难度中等，既考察学生对坐标移动的理解，又能锻炼他们的计算能力。",
+  "studentInitialQuestionPath": "data/student-questions/情境化出题导师/2026-03-26/910e4aa0-8c57-49cb-95b8-70d55f4e3337/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_f9848a468268",
+  "storageModelKey": "qz__qwen3.5-397b"
+}

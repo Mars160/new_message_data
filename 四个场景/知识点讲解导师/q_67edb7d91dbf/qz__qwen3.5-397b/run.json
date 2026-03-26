@@ -1,0 +1,25 @@
+{
+  "runId": "ca206de6-987a-4698-8eef-f96083030f21",
+  "sceneName": "知识点讲解导师",
+  "title": "all-scenes-知识点讲解导师-007",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 7,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d6438f85ffeuz2ey8bygJRT8i",
+  "startedAt": "2026-03-26T10:41:47.457Z",
+  "finishedAt": "2026-03-26T10:43:06.388Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/知识点讲解导师/q_67edb7d91dbf/qz__qwen3.5-397b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/知识点讲解导师/q_67edb7d91dbf/qz__qwen3.5-397b/conversation-messages.json",
+  "studentInitialQuestion": "我是小学五年级，我身体不太好，上小数乘法的时候请假了。你能给我讲讲小数乘法、小数除法，还有用字母表示数吗？可以分清楚一点讲。",
+  "studentInitialQuestionPath": "data/student-questions/知识点讲解导师/2026-03-26/ca206de6-987a-4698-8eef-f96083030f21/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_67edb7d91dbf",
+  "storageModelKey": "qz__qwen3.5-397b"
+}

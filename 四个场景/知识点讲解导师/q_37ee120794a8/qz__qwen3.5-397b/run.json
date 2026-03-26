@@ -1,0 +1,25 @@
+{
+  "runId": "5bcc97a1-4c1b-40db-adaa-525693c48fc6",
+  "sceneName": "知识点讲解导师",
+  "title": "all-scenes-知识点讲解导师-006",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 6,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d675a55fffeG277efa1RxZ8dd",
+  "startedAt": "2026-03-26T09:47:05.080Z",
+  "finishedAt": "2026-03-26T09:49:03.600Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/知识点讲解导师/q_37ee120794a8/qz__qwen3.5-397b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/知识点讲解导师/q_37ee120794a8/qz__qwen3.5-397b/conversation-messages.json",
+  "studentInitialQuestion": "我是小学四年级，上个学期已经学过平行四边形了。你能帮我预习一下三角形的面积计算方法吗？最好让我知道它和以前学过的内容有什么关系。",
+  "studentInitialQuestionPath": "data/student-questions/知识点讲解导师/2026-03-26/5bcc97a1-4c1b-40db-adaa-525693c48fc6/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_37ee120794a8",
+  "storageModelKey": "qz__qwen3.5-397b"
+}

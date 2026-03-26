@@ -1,0 +1,25 @@
+{
+  "runId": "1cb17cbb-3ae3-4b3e-b236-940991bc821b",
+  "sceneName": "跨学科教案生成导师",
+  "title": "all-scenes-跨学科教案生成导师-001",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 1,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d66cc7dbffelWCu8QscStaVME",
+  "startedAt": "2026-03-26T09:56:46.076Z",
+  "finishedAt": "2026-03-26T09:57:40.485Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/跨学科教案生成导师/q_6f105ab404a1/qz__qwen3.5-397b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/跨学科教案生成导师/q_6f105ab404a1/qz__qwen3.5-397b/conversation-messages.json",
+  "studentInitialQuestion": "教学对象是初一学生，12到13岁，熟悉刻度尺、量筒等基础测量工具的使用，具备简单观察记录能力，形象思维为主，抽象概念理解较困难。核心学科是物理，主要关联学科是数学，计划4课时，学生已经掌握长度与体积测量、质量与密度基础概念、力的初步认识。请你据此生成一份跨学科教案。",
+  "studentInitialQuestionPath": "data/student-questions/跨学科教案生成导师/2026-03-26/1cb17cbb-3ae3-4b3e-b236-940991bc821b/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_6f105ab404a1",
+  "storageModelKey": "qz__qwen3.5-397b"
+}

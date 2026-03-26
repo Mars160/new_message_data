@@ -1,0 +1,25 @@
+{
+  "runId": "9ac5e69b-d040-4e5f-b7b1-0d19997f51a0",
+  "sceneName": "跨学科教案生成导师",
+  "title": "all-scenes-跨学科教案生成导师-002",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 2,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d616ce7bffe24xU3HUPXGvmk2",
+  "startedAt": "2026-03-26T11:30:40.459Z",
+  "finishedAt": "2026-03-26T11:34:15.960Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/跨学科教案生成导师/q_9744baa61cf9/qz__glm-5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/跨学科教案生成导师/q_9744baa61cf9/qz__glm-5/conversation-messages.json",
+  "studentInitialQuestion": "教学对象是初三学生，他们熟练掌握电路分析与欧姆定律，能独立设计简单实验方案，逻辑推理能力较强，但对复杂系统的综合分析能力还有提升空间。核心学科是物理，主要关联学科是化学，计划3课时，已掌握电磁感应现象、电功率计算、串并联电路特点。请你生成一份跨学科教案。",
+  "studentInitialQuestionPath": "data/student-questions/跨学科教案生成导师/2026-03-26/9ac5e69b-d040-4e5f-b7b1-0d19997f51a0/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_9744baa61cf9",
+  "storageModelKey": "qz__glm-5"
+}

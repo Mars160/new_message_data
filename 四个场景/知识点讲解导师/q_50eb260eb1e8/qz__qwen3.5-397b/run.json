@@ -1,0 +1,25 @@
+{
+  "runId": "361a5010-35bd-4e1f-940c-9f90f20f826b",
+  "sceneName": "知识点讲解导师",
+  "title": "all-scenes-知识点讲解导师-010",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 10,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d66f50c3ffeZ4NM9DuFqzkc08",
+  "startedAt": "2026-03-26T09:53:59.916Z",
+  "finishedAt": "2026-03-26T09:56:46.070Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/知识点讲解导师/q_50eb260eb1e8/qz__qwen3.5-397b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/知识点讲解导师/q_50eb260eb1e8/qz__qwen3.5-397b/conversation-messages.json",
+  "studentInitialQuestion": "我是小学一年级的女孩。你能给我解释一下乘法到底是什么意思吗？请讲得特别简单一点。",
+  "studentInitialQuestionPath": "data/student-questions/知识点讲解导师/2026-03-26/361a5010-35bd-4e1f-940c-9f90f20f826b/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_50eb260eb1e8",
+  "storageModelKey": "qz__qwen3.5-397b"
+}

@@ -1,0 +1,25 @@
+{
+  "runId": "550065d6-c5c1-427f-990b-61df46be66e4",
+  "sceneName": "知识点讲解导师",
+  "title": "all-scenes-知识点讲解导师-005",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 5,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d6b3227effegD35vpzATmkP8q",
+  "startedAt": "2026-03-26T08:39:55.356Z",
+  "finishedAt": "2026-03-26T08:43:28.053Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/知识点讲解导师/q_d696c0b30098/qz__Kimi-K25/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/知识点讲解导师/q_d696c0b30098/qz__Kimi-K25/conversation-messages.json",
+  "studentInitialQuestion": "我是小学四年级，我喜欢画画。我不知道1公顷到底有多大，我能在1公顷的白纸上画画吗？你能结合生活给我讲讲吗？",
+  "studentInitialQuestionPath": "data/student-questions/知识点讲解导师/2026-03-26/550065d6-c5c1-427f-990b-61df46be66e4/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_d696c0b30098",
+  "storageModelKey": "qz__Kimi-K25"
+}

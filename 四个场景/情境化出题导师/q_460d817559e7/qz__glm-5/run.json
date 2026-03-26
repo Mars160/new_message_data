@@ -1,0 +1,25 @@
+{
+  "runId": "84fbcc96-1443-4b82-a596-4c6af66dc992",
+  "sceneName": "情境化出题导师",
+  "title": "all-scenes-情境化出题导师-001",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 1,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d63168c1ffewxn1Q8WPqpYuVT",
+  "startedAt": "2026-03-26T11:01:37.053Z",
+  "finishedAt": "2026-03-26T11:02:13.769Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/情境化出题导师/q_460d817559e7/qz__glm-5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/情境化出题导师/q_460d817559e7/qz__glm-5/conversation-messages.json",
+  "studentInitialQuestion": "我需要一道关于三角形周长的基础题，考察学生对等边三角形特性的理解。题目要适合四年级下学期的学生课堂练习。",
+  "studentInitialQuestionPath": "data/student-questions/情境化出题导师/2026-03-26/84fbcc96-1443-4b82-a596-4c6af66dc992/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_460d817559e7",
+  "storageModelKey": "qz__glm-5"
+}

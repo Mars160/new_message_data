@@ -1,0 +1,25 @@
+{
+  "runId": "53e7baa3-b501-47e4-bcca-2c7239f656b6",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-005",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 5,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": "ses_2d6bb39beffeuhe3K8bSCcoIj8",
+  "startedAt": "2026-03-26T08:31:05.086Z",
+  "finishedAt": "2026-03-26T08:32:36.319Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/引导式讲题辅导/q_3b6df0b1f703/qz__qwen3.5-397b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/引导式讲题辅导/q_3b6df0b1f703/qz__qwen3.5-397b/conversation-messages.json",
+  "studentInitialQuestion": "我喜欢自己找规律，这道题我想试试看：计算器的“4”键坏了，要算出144×54，按键顺序怎样才能算出结果？你能用启发式提问带我想出办法吗？",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/53e7baa3-b501-47e4-bcca-2c7239f656b6/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_3b6df0b1f703",
+  "storageModelKey": "qz__qwen3.5-397b"
+}

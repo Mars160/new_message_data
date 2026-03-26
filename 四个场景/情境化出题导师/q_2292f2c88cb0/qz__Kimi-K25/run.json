@@ -1,0 +1,25 @@
+{
+  "runId": "1c8f424c-b16e-4808-93ac-5f213b021b0e",
+  "sceneName": "情境化出题导师",
+  "title": "all-scenes-情境化出题导师-010",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 10,
+    "sceneQuestionTotal": 10
+  },
+  "teacherSessionId": "ses_2d6cca2feffeSnWOn6sul3fM9Z",
+  "startedAt": "2026-03-26T08:12:04.052Z",
+  "finishedAt": "2026-03-26T08:13:55.586Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/情境化出题导师/q_2292f2c88cb0/qz__Kimi-K25/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/情境化出题导师/q_2292f2c88cb0/qz__Kimi-K25/conversation-messages.json",
+  "studentInitialQuestion": "同学们最近在学习平行线的判定，我想要一道七年级的选择题来检测他们对平行线概念的理解。题目需要结合生活情境，最好能涉及平行线的传递性和空间概念，难度适中。",
+  "studentInitialQuestionPath": "data/student-questions/情境化出题导师/2026-03-26/1c8f424c-b16e-4808-93ac-5f213b021b0e/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_2292f2c88cb0",
+  "storageModelKey": "qz__Kimi-K25"
+}

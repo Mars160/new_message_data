@@ -1,0 +1,25 @@
+{
+  "runId": "9ec11398-c410-4239-96f5-3c6384384655",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-013",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 13,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": "ses_2d68839cdffe59ZOGPuK9zJBQ9",
+  "startedAt": "2026-03-26T09:26:47.418Z",
+  "finishedAt": "2026-03-26T09:28:02.539Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/引导式讲题辅导/q_308e266213b8/qz__qwen3.5-397b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/引导式讲题辅导/q_308e266213b8/qz__qwen3.5-397b/conversation-messages.json",
+  "studentInitialQuestion": "我平时不太会算这种连续关系题。桃树24棵，梨树是3倍，苹果树又是梨树4倍，这题我总是绕晕。你能像教小朋友一样慢慢问我吗？",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/9ec11398-c410-4239-96f5-3c6384384655/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_308e266213b8",
+  "storageModelKey": "qz__qwen3.5-397b"
+}

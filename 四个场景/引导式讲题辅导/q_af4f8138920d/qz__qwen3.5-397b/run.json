@@ -1,0 +1,25 @@
+{
+  "runId": "edf48119-5c77-4785-8487-dc80d331c160",
+  "sceneName": "引导式讲题辅导",
+  "title": "all-scenes-引导式讲题辅导-006",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "mode": "batch-all-scenes",
+    "sceneQuestionIndex": 6,
+    "sceneQuestionTotal": 15
+  },
+  "teacherSessionId": "ses_2d68e1bfeffeZkEZZPYcmz7CUa",
+  "startedAt": "2026-03-26T09:20:21.855Z",
+  "finishedAt": "2026-03-26T09:21:23.774Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/引导式讲题辅导/q_af4f8138920d/qz__qwen3.5-397b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/引导式讲题辅导/q_af4f8138920d/qz__qwen3.5-397b/conversation-messages.json",
+  "studentInitialQuestion": "我基础还行，但是应用题和转弯一点的题就容易卡住。我平时喜欢画画和做手工。关于“一个三位数换个位和百位后，与原数的差的个位数字是7，求它们的差”这题，你能讲得细一点、分步骤一点吗？",
+  "studentInitialQuestionPath": "data/student-questions/引导式讲题辅导/2026-03-26/edf48119-5c77-4785-8487-dc80d331c160/student-initial-question.json",
+  "studentQuestionSourcePath": null,
+  "storageQuestionKey": "q_af4f8138920d",
+  "storageModelKey": "qz__qwen3.5-397b"
+}

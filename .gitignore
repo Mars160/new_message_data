@@ -1,0 +1,8 @@
+message_data
+
+__pycache__
+.venv
+
+secret.json
+
+.ruff_cache

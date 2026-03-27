@@ -5,7 +5,7 @@ import re
 from dataclasses import dataclass
 from itertools import product
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional
 
 import yaml
 from openai import AsyncOpenAI
@@ -201,9 +201,7 @@ def render_prompt_template(template: str, case: Case) -> str:
     return TASK_FIELD_PATTERN.sub(replace_task_field, rendered)
 
 
-def build_default_prompt(
-    case: Case, metrics: List[Metric], score_min: int, score_max: int
-) -> List[Dict[str, str]]:
+def build_default_prompt(case: Case, metrics: List[Metric]) -> List[Dict[str, str]]:
     metrics_description = "\n\n".join(
         [
             f"指标 {index + 1}: {metric.name}\n评分标准: {metric.rubric}"
@@ -220,7 +218,7 @@ def build_default_prompt(
             "content": (
                 "请根据以下多个评分标准对给定的教学对话进行综合评估。\n\n"
                 f"{metrics_description}\n\n"
-                f"请为每个指标给出 {score_min}-{score_max} 分范围内的评分，并提供简要的评分理由。\n\n"
+                f"请为每个指标给出 0~5 分范围内的评分，并提供简要的评分理由。\n\n"
                 f"待评估的对话：\n{case.inputs}"
             ),
         },
@@ -272,8 +270,6 @@ def get_scene_cases(
 class Evaluator:
     metrics: List[Metric]
     prompt_templates: List[Dict[str, Any]]
-    score_min: int
-    score_max: int
 
     def __post_init__(self):
         fields = {}
@@ -308,9 +304,7 @@ class Evaluator:
 
     def _build_messages(self, case: Case) -> List[Dict[str, str]]:
         if not self.prompt_templates:
-            return build_default_prompt(
-                case, self.metrics, self.score_min, self.score_max
-            )
+            return build_default_prompt(case, self.metrics)
 
         metric_names = "、".join(metric.name for metric in self.metrics)
         messages = [
@@ -338,7 +332,7 @@ class Evaluator:
     async def evaluate(self, case: Case) -> EvaluationRecord:
         response = await openai_client.beta.chat.completions.parse(
             model=EVALUATOR_MODEL,
-            messages=self._build_messages(case),
+            messages=self._build_messages(case),  # pyright: ignore[reportArgumentType]
             temperature=0,
             response_format=self._response_model,
             timeout=9999999999999,
@@ -476,8 +470,6 @@ async def evaluate_scene(scene_name: str, target_model: str):
     evaluator = Evaluator(
         metrics=metrics,
         prompt_templates=prompt_templates,
-        score_min=0,
-        score_max=5,
     )
     cases = get_scene_cases(scene_name, target_model, scene_config)
 

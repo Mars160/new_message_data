@@ -1,0 +1,7 @@
+跨场景综合热力图: overall_normalized_heatmap.png
+分场景综合均分柱状图: overall_by_scene.png
+模型排行榜: model_leaderboard.png
+引导式讲题辅导 维度热力图: scene_01_metric_heatmap.png
+情境化出题导师 维度热力图: scene_02_metric_heatmap.png
+知识点讲解导师 维度热力图: scene_03_metric_heatmap.png
+跨学科教案生成导师 维度热力图: scene_04_metric_heatmap.png
